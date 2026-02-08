@@ -1,6 +1,6 @@
 # Contributing
 
-**This page is deprecated, go [here](https://github.com/x64dbg/x64dbg/blob/development/.github/CONTRIBUTING.md) instead.**
+**This page is deprecated, go [here][def] instead.**
 
 * [Get x64dbg](https://x64dbg.com)!
 * [Compile x64dbg](https://github.com/x64dbg/x64dbg/wiki/Compiling-the-whole-project) and add new features ([good first issues](https://easy.x64dbg.com) are a good place to start).
@@ -15,3 +15,5 @@
 ## ndh2k16
 
 Get the slides and materials [here](https://mega.nz/#!T0RhlQ6Q!TbgpK3XPDnyL6zf-fq1XscW3LQrQBbXSO5c8w0XwTtk), video [here](https://www.youtube.com/watch?v=vpaM3BL0auk).
+
+[def]: https://github.com/x64dbg/x64dbg/blob/development/.github/CONTRIBUTING.md
