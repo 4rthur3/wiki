@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/c9dd862c-88e3-4a11-a261-d6105fd6df41
 You need to clone the repository on your local drive:
 
 ```sh
-git clone --recursive https://github.com/x64dbg/x64dbg.git
+
 ```
 
 The project uses a CMake project, which automatically fetches all the necessary dependencies. You can use many IDEs to work with CMake projects:
